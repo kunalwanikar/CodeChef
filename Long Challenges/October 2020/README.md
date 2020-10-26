@@ -4,5 +4,5 @@ I tried very hard for this contest.
 Overall it was very brainstorming contest.
 Learnt new concept like implementation of prims algorithm on a graph.
 
-Point : 410
-Rank : 3100-3200
+Point : 410                 
+Rank : 3306
