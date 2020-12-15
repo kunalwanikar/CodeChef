@@ -1,4 +1,4 @@
-https://www.codechef.com/DEC20B/problems/VACCINE1
+//https://www.codechef.com/DEC20B/problems/VACCINE1
 
 #include<bits/stdc++.h>
 #define ll long long
